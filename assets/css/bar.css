@@ -1,7 +1,6 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
 }
 
 .topnav {
@@ -17,6 +16,7 @@ body {
     padding: 20px 30px;
     text-decoration: none;
     font-size: 20px;
+    font-weight: 700;
 }
 
 .topnav a:hover {
